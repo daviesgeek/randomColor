@@ -70,6 +70,20 @@ randomColor({
 
 ```
 
+### Tests
+
+To run the tests, first install all the dependencies:
+
+```bash
+  npm install
+```
+
+Then, run the tests:
+
+```bash
+  npm run test
+```
+
 ### License
 
 This project is licensed under the terms of the MIT license.
